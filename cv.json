@@ -4,11 +4,11 @@
     "label": "Software Engineer",
     "picture": "",
     "email": "resume@ethansmith.io",
-    "website": "https://ethansmith.io",
+    "website": "ethansmith.io",
     "summary": "Software engineer looking to gain as much experience and knowledge that I can. My interests include open source software development, frontend and middletier programming, and designing practical user applications. My passion is education and knowledge. I love to teach and learn as much as possible and want to provide opportunities to everyone to do the same.",
     "location": {
-      "address": "1 Ledge Dr",
-      "postalCode": "VT 05641",
+      "address": "1 Ledge Dr.",
+      "postalCode": "05641",
       "city": "Barre Town",
       "countryCode": "US",
       "region": "Vermont"
@@ -18,6 +18,11 @@
         "network": "Github",
         "username": "ethanmsmith",
         "url": "https://github.com/ethanmsmith"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ethan-smith-59149a31",
+        "url": "https://www.linkedin.com/in/ethan-smith-59149a31/"
       }
     ]
   },
@@ -26,8 +31,9 @@
       "company": "Fidelity Investments",
       "position": "Software Engineer",
       "website": "https://fidelity.com",
+      "location": "Merrimack, NH - Remote",
       "startDate": "2017-09-11",
-      "endDate": "",
+      "endDate": "2020-02-02",
       "summary": "I work on the company's intranet and lo-code development platform. I support end users and automate miscellanious administrative tasks.",
       "highlights": [
         "Joined the company in 2017 as a LEAP candidate and now work as a software engineer on a small team of 4 developers."
@@ -37,6 +43,7 @@
       "company": "Charles River Investments",
       "position": "Softare Engineer, Intern",
       "website": "https://crd.com",
+      "location": "Burlington, MA",
       "startDate": "2015-05-01",
       "endDate": "2015-08-31",
       "summary": " I was placed into a team and given the responsibilities of any other team member. I used scrum practices to complete everything from performance testing and code reviewing to code fixing and developing customer requested features. While at Charles River, I managed to add several key features of functionality to the product as well as clean up and fix inefficient code."
@@ -45,6 +52,7 @@
       "company": "iD Tech",
       "position": "Counselor",
       "website": "https://idTech.com",
+      "location": "Lowell, MA",
       "startDate": "2015-06-01",
       "endDate": "2015-08-31",
       "summary": "I taught computer science core concepts to high school students.",
@@ -56,14 +64,16 @@
       "company": "U.S. Soccer Federation",
       "position": "Referee",
       "website": "https://www.ussoccer.com/",
+      "location": "Central/NE, MA",
       "startDate": "2008-02-01",
-      "endDate": "2019-06-31",
+      "endDate": "2019-06-30",
       "summary": "Refereed youth town and club soccer for U8 through U18."
     },
     {
       "company": "Fraen Corporation",
       "position": "Quality Control",
       "website": "https://www.fraen.com/",
+      "location": "Woburn, MA",
       "startDate": "2014-06-01",
       "endDate": "2014-08-31",
       "summary": " Checking pieces from machines to ensure compliance with specific automobile and aerospace industry standards using hand tools and TESA Scans."
@@ -73,7 +83,8 @@
     {
       "organization": "Danvers Youth Soccer",
       "position": "Coach",
-      "website": "http://organization.com/",
+      "website": "http://dys.org/",
+      "location": "Danvers, MA",
       "startDate": "2013-04-01",
       "endDate": "2013-06-01",
       "summary": "Assistant soccer coach for girls U14 soccer team. I ran drills during practice and managed the team during games."
@@ -83,6 +94,7 @@
     {
       "institution": "University of Massachusetts, Amherst",
       "area": "Computer Science, Software Engineering",
+      "location": "Amherst, MA",
       "studyType": "Bachelor of Science",
       "startDate": "2013-09-01",
       "endDate": "2017-06-01",
@@ -163,15 +175,15 @@
     {
       "name": "Frisbee",
       "keywords": [
-        "Ultimate",
-        "Disc"
+        "Ultimate Disc",
+        "Disc Golf"
       ]
     },
     {
       "name": "Music",
       "keywords": [
-        "Classic",
-        "Rock"
+        "Classic Rock",
+        "Rock n' Roll"
       ]
     },
     {

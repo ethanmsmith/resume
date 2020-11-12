@@ -1,6 +1,20 @@
 {
+  "scripts": {
+    "compile": "tsc -p .; gulp"
+  },
   "dependencies": {
     "fontawesome": "^5.6.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-replace": "^1.0.0",
+    "moment": "^2.29.1",
+    "replacestream": "^4.0.3",
     "resume-cli": "^2.0.0"
-  }
+  },
+  "devDependencies": {
+    "@types/gulp": "^4.0.7",
+    "@types/node": "^14.14.6",
+    "@types/replacestream": "^4.0.0"
+  },
+  "name": "resume"
 }
