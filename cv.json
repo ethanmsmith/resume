@@ -7,8 +7,8 @@
     "website": "ethansmith.io",
     "summary": "Software engineer looking to gain as much experience and knowledge that I can. My interests include open source software development, frontend and middletier programming, and designing practical user applications. My passion is education and knowledge. I love to teach and learn as much as possible and want to provide opportunities to everyone to do the same.",
     "location": {
-      "address": "1 Ledge Dr.",
-      "postalCode": "05641",
+      "address": "",
+      "postalCode": "",
       "city": "Barre Town",
       "countryCode": "US",
       "region": "Vermont"
@@ -34,9 +34,14 @@
       "location": "Merrimack, NH - Remote",
       "startDate": "2017-09-11",
       "endDate": "2020-02-02",
-      "summary": "I work on the company's intranet and lo-code development platform. I support end users and automate miscellanious administrative tasks.",
+      "summary": "I work as a software and platform engineer both developing solutions on, and administering SharePoint and PowerPlatform.",
       "highlights": [
-        "Joined the company in 2017 as a LEAP candidate and now work as a software engineer on a small team of 4 developers."
+        "Joined the company in 2017 as a LEAP candidate and refined my skills in Angular, Agile, Transact SQL, and Java Spring",
+        "Created self service and automated solutions using React and Microsoft's SPFx",
+        "Automated multiple compliance and business critical processes with Microsoft's PnP-PowerShell",
+        "Served as a tech lead and mentor for our interns",
+        "Served as Platform Engineer and Admin for the companies PowerPlatform",
+        "Skills used: PowerShell, React, C#, REST, Git, TypeScript"
       ]
     },
     {
@@ -46,7 +51,12 @@
       "location": "Burlington, MA",
       "startDate": "2015-05-01",
       "endDate": "2015-08-31",
-      "summary": " I was placed into a team and given the responsibilities of any other team member. I used scrum practices to complete everything from performance testing and code reviewing to code fixing and developing customer requested features. While at Charles River, I managed to add several key features of functionality to the product as well as clean up and fix inefficient code."
+      "summary": "As a software engineer intern, I participated in the full software development lifecycle from design, to implementation, and testing.",
+      "highlights":[
+        "Used test driven development (TDD) to identify a major bug in the FX order processing code, increasing the efficiency by 300%",
+        "Added new funcionality to the application using C# and WinForms.",
+        "Skills used: Java Sping, C#, Perforce, MSSQL"
+      ]
     },
     {
       "company": "iD Tech",
@@ -55,9 +65,9 @@
       "location": "Lowell, MA",
       "startDate": "2015-06-01",
       "endDate": "2015-08-31",
-      "summary": "I taught computer science core concepts to high school students.",
+      "summary": "I instructed upcoming and current high school students in core computer science concepts.",
       "highlights": [
-        "I was recognized as a top performing counselor and offered a job for the following summer."
+        "I was recognized as one of the top 10% counselors nationwide and offered a job for the following summer."
       ]
     },
     {
@@ -76,7 +86,7 @@
       "location": "Woburn, MA",
       "startDate": "2014-06-01",
       "endDate": "2014-08-31",
-      "summary": " Checking pieces from machines to ensure compliance with specific automobile and aerospace industry standards using hand tools and TESA Scans."
+      "summary": " Scrutinized pieces from machines to ensure compliance with stringent automobile and aerospace industry standards using hand tools and TESA Scans."
     }
   ],
   "volunteer": [
@@ -98,18 +108,19 @@
       "studyType": "Bachelor of Science",
       "startDate": "2013-09-01",
       "endDate": "2017-06-01",
-      "gpa": "4.0",
+      "gpa": "3.45",
       "courses": [
         "Computer System Principles",
         "Information Systems",
         "Introduction to Algorithms",
         "Introduction to Computation",
-        "Introduction to Computer Graphics",
         "Network Systems",
         "Programming Methodology",
         "Programming with Data Structures",
         "Reasoning About Uncertainty",
+        "Discrete Mathamatics",
         "Software Engineering",
+        "Software Engineering: Project Management",
         "Software Engineering: Synthesis and Development",
         "Web Programming",
         "iOS Programming"
@@ -118,19 +129,19 @@
   ],
   "awards": [
     {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "publications": [
     {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "website": "http://publication.com",
-      "summary": "Description..."
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
   "skills": [
@@ -140,8 +151,21 @@
       "keywords": [
         "HTML",
         "CSS",
+        "React",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": [
+        "PowerShell",
+        "Java",
         "Javascript",
-        "TypeScript"
+        "TypeScript",
+        "C#",
+        "PL/SQL",
+        "MSSQL"
       ]
     }
   ],
