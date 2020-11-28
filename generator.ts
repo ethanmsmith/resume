@@ -31,7 +31,7 @@ type basics = {
 }
 
 const cvItem = (item: cvItem) =>
-    `\\item {${item.text}}`;
+    `\\item {${item.text.replace('#', '\\#').replace('%', '\\%')}}`;
 const cvItems = (items: cvItem[]) =>
     `\\begin{cvitems}
         ${items.map(item => cvItem(item)).join('\n')}
@@ -39,7 +39,7 @@ const cvItems = (items: cvItem[]) =>
 const cvSkill = (category: string, skills: string[]) =>
     `\\cvskill
         {${category}}
-        {${skills.join(', ')}}`;
+        {${skills.join(', ').replace('#', '\\#').replace('%', '\\%')}}`;
 const cvSkills = (skills: cvSkill[]) =>
     `\\begin{cvskills}
         ${skills.map(skill => cvSkill(skill.category, skill.skills)).join('\n')}

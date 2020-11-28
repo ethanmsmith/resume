@@ -39,9 +39,22 @@ gulp.task('summary', () =>
 );
 
 gulp.task('latex', (cb: any) => {
-  gulp.src(['awesome-cv.cls']).pipe(gulp.dest(`${outputDir}/`));
-  gulp.src(['fontawesome.sty']).pipe(gulp.dest(`${outputDir}/`));
-  exec(`cd ${outputDir}/; xelatex cv.tex`, (err: any, stdout: any, stderr: any) => {
+  // gulp.src(['awesome-cv.cls']).pipe(gulp.dest(`${outputDir}/`));
+  // gulp.src(['fontawesome.sty']).pipe(gulp.dest(`${outputDir}/`));
+  exec(`cp awesome-cv.cls ${outputDir}/;cp fontawesome.sty ${outputDir}/;cp -R fonts ${outputDir}/fonts;cd ${outputDir}/;`, (err: any, stdout: any, stderr: any) => {
+    if (err) {
+      // node couldn't execute the command
+      console.log("ERROR:")
+      console.log(stderr)
+      cb(stderr);
+    }
+    else {
+      console.log("SUCCESS:")
+      console.log(stdout)
+      cb(stdout);
+    }
+  });
+  exec(`xelatex cv.tex`, (err: any, stdout: any, stderr: any) => {
     if (err) {
       // node couldn't execute the command
       console.log("ERROR:")
