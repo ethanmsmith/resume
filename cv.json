@@ -5,7 +5,7 @@
     "picture": "",
     "email": "contact@ethansmith.io",
     "website": "ethansmith.io",
-    "summary": "Passionate Software engineer with 3+ years of experience working on a variety of systems. My passion is education and the free sharing of knowledge and I am eager to apply that passion to my career. I love to teach and broaden my knowledge and want to provide opportunities for everyone to do the same.",
+    "summary": "Passionate Software engineer with 3+ years of experience working on a variety of systems in highly regulated industries. My passion is education and the free sharing of knowledge and I am eager to apply that passion to my career. I love to teach and broaden my knowledge and want to provide opportunities for everyone to do the same.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -34,15 +34,16 @@
       "location": "Merrimack, NH - Remote",
       "startDate": "2017-09-11",
       "endDate": "Present",
-      "summary": "Develop solutions on and administer the enterprise SharePoint and Power Platform SaaS offerings.",
+      "summary": "Develop solutions on and administer the enterprise SharePoint and Power Platform SaaS offerings",
       "highlights": [
         "Refined my skills in Angular, Agile, Transact SQL, and Java Spring as a LEAP candidate",
-        "Created self service and automated user facing solutions with React and Microsoft's SPFx framework",
-        "Automated multiple SEC 17a-4f compliant processes",
-        "Implemented a more secure credential protocol for automation scripts",
-        "Facilitated monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
-        "Hosted daily office hours to troubleshoot users' issues and advise on best practices for SharePoint",
-        "Served as a tech lead and mentor for our summer interns"
+        "Mentored and provided technical guidance for interns",
+        "Served as my scrum team's interim scrum master for 1 year while still performing daily development tasks",
+        "Created self service solutions with React and Microsoft's SPFx framework",
+        "Implemented a more secure credential protocol for automated PowerShell scripts",
+        "Used Java and PowerShell to automate multiple processes to ensure SEC 17a-4f compliance",
+        "Facilitate monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
+        "Host daily office hours to troubleshoot users' issues and advise on best practices for SharePoint use and development"
       ]
     },
     {
@@ -52,10 +53,10 @@
       "location": "Burlington, MA",
       "startDate": "2015-05-01",
       "endDate": "2015-08-31",
-      "summary": "Worked in a scrum team to perform daily development tasks",
+      "summary": "Worked in an Agile scrum team to perform daily development tasks",
       "highlights":[
-        "Utilized TDD to identify bugs and refactor forex order processing code, increasing efficiency by 300%",
-        "Revised the forex order form and order processing according to user feedback"
+        "Utilized TDD to identify bugs and refactor Forex order processing code, increasing efficiency by 300%",
+        "Revised C#, WinForms, and Java Spring to revise the Forex order form and order processing capabilities according to user feedback"
       ]
     },
     {
@@ -78,7 +79,7 @@
       "location": "Central/Northeast, MA",
       "startDate": "2008-02-01",
       "endDate": "2019-06-30",
-      "summary": "Refereed youth town and club soccer for age groups U8 through U18"
+      "summary": "Refereed town and club youth soccer for age groups U8 through U18"
     },
     {
       "company": "Fraen Corporation",
@@ -87,7 +88,7 @@
       "location": "Woburn, MA",
       "startDate": "2014-06-01",
       "endDate": "2014-08-31",
-      "summary": " Scrutinized pieces from machines to ensure compliance with stringent automobile and aerospace industry standards"
+      "summary": "Scrutinized pieces from machines to ensure compliance with stringent automobile and aerospace industry standards"
     }
   ],
   "volunteer": [
