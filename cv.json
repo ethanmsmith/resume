@@ -36,14 +36,14 @@
       "endDate": "Present",
       "summary": "Develop solutions on and administer the enterprise SharePoint and Power Platform SaaS offerings",
       "highlights": [
+        "Facilitate monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
+        "Host daily office hours to troubleshoot users' issues and advise on best practices for SharePoint use and development",
         "Refined my skills in Angular, Agile, Transact SQL, and Java Spring as a LEAP candidate",
         "Mentored and provided technical guidance for interns",
         "Served as my scrum team's interim scrum master for 1 year while still performing daily development tasks",
         "Created self service solutions with React and Microsoft's SPFx framework",
         "Implemented a more secure credential protocol for automated PowerShell scripts",
-        "Used Java and PowerShell to automate multiple processes to ensure SEC 17a-4f compliance",
-        "Facilitate monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
-        "Host daily office hours to troubleshoot users' issues and advise on best practices for SharePoint use and development"
+        "Automated multiple processes to ensure SEC 17a-4f compliance"
       ]
     },
     {
@@ -56,7 +56,7 @@
       "summary": "Worked in an Agile scrum team to perform daily development tasks",
       "highlights":[
         "Utilized TDD to identify bugs and refactor Forex order processing code, increasing efficiency by 300%",
-        "Revised C#, WinForms, and Java Spring to revise the Forex order form and order processing capabilities according to user feedback"
+        "Updated the Forex order form and order processing capabilities according to user feedback"
       ]
     },
     {
