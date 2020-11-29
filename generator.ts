@@ -49,7 +49,7 @@ const cvEntry = (firstRow: string, secondRow: string, thirdRow: string, startDat
         {${firstRow}}
         {${secondRow}}
         {${thirdRow}}
-        {${moment(startDate).format('YYYY.M.D')} - ${moment(endDate).format('YYYY.M.D')}}
+        {${moment(startDate).format('YYYY.M.D')} - ${endDate !== "Present" ? moment(endDate).format('YYYY.M.D') : "Present"}}
         {
             ${cvItems(list)}
         }`;
