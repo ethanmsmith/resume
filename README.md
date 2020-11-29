@@ -1,14 +1,7 @@
-## What is Awesome CV?
-
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
-
-
-## Preview
-
 #### Résumé
 
 ## Quick Start
-
+This repository is to automatically convert a json resume to LaTex PDF and save the result in my personal website project
 This is forked from Awesome-CV
 
 ```bash
