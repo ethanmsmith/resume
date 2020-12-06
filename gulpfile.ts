@@ -60,6 +60,7 @@ gulp.task('latex', (cb: any) => {
           cb();
         }
         console.log("Outside of if")
+        cb();
       });
     }
   });
