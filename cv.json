@@ -3,13 +3,13 @@
     "name": "Ethan Smith",
     "label": "Software Engineer",
     "picture": "",
-    "email": "contact@ethansmith.io",
+    "email": "ethan.smith@fmr.com",
     "website": "ethansmith.io",
-    "summary": "Passionate Software engineer with 3+ years of experience working on a variety of systems in highly regulated industries. My passion is education and the free sharing of knowledge and I am eager to apply that passion to my career. I love to teach and broaden my knowledge and want to provide opportunities for everyone to do the same.",
+    "summary": "I have included my passions for education and the free-sharing of knowledge proudly in my 3+ years of working as a software engineer in a highly regulated industry. Although I am confident in my skillset, I believe there is always room for self-improvement and look forward to learning and growing from new experiences.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Barre Town",
+      "city": "Barre",
       "countryCode": "US",
       "region": "Vermont"
     },
@@ -34,16 +34,18 @@
       "location": "Merrimack, NH - Remote",
       "startDate": "2017-09-11",
       "endDate": "Present",
-      "summary": "Develop solutions on and administer the enterprise SharePoint and Power Platform SaaS offerings",
+      "summary": "Act as development lead for the enterprise Power Platform SaaS offering",
       "highlights": [
-        "Facilitate monthly tech forums for off-shore and on-shore teams to connect on technical concepts",
-        "Host daily office hours to troubleshoot users' issues and advise on best practices for SharePoint use and development",
-        "Refined my skills in Angular, Agile, Transact SQL, and Java Spring as a LEAP candidate",
-        "Mentored and provided technical guidance for interns",
-        "Served as my scrum team's interim scrum master for 1 year while still performing daily development tasks",
+        "Aid in the technical interviews of potential team members",
+        "Facilitate monthly KT forums for off-shore and on-shore teams to connect on vital cross-team initiatives",
+        "Mentor and provide technical guidance for summer interns across various tech stacks",
+        "Host tri-weekly office hours to troubleshoot users' issues and advise on best practices for SharePoint and Power Platform adoption",
+        "Automate critical processes to ensure SEC Rule 17a-4(f) and audit compliance",
+        "Participate in quarterly planning sessions to identify and refine the team's product backlog",
+        "Served as my team's interim scrum master on multiple occassions in addition to performing daily development tasks",
         "Created self service solutions with React and Microsoft's SPFx framework",
-        "Implemented a more secure credential protocol for automated PowerShell scripts",
-        "Automated multiple processes to ensure SEC Rule 17a-4(f) compliance"
+        "Refined my skills in Angular, Agile, Transact SQL, and Java Spring as a LEAP associate",
+        "Implemented a more secure credential protocol for automated PowerShell scripts"
       ]
     },
     {
@@ -61,7 +63,7 @@
     },
     {
       "company": "iD Tech",
-      "position": "Counselor",
+      "position": "Instructor",
       "website": "https://idTech.com",
       "location": "Lowell, MA",
       "startDate": "2015-06-01",
@@ -79,7 +81,7 @@
       "location": "Central/Northeast, MA",
       "startDate": "2008-02-01",
       "endDate": "2019-06-30",
-      "summary": "Refereed town and club youth soccer for age groups U8 through U18"
+      "summary": "Officiated town and club youth soccer for age groups U8 through U18"
     },
     {
       "company": "Fraen Corporation",
@@ -113,19 +115,8 @@
       "gpa": "3.45",
       "courses": [
         "Software Engineering",
-        "Software Engineering: Synthesis and Development",
         "Software Engineering: Project Management",
-        "Computer System Principles",
-        "Information Systems",
-        "Introduction to Algorithms",
-        "Introduction to Computation",
-        "Network Systems",
-        "Programming Methodology",
-        "Programming with Data Structures",
-        "Reasoning About Uncertainty",
-        "Discrete Mathamatics",
-        "Web Programming",
-        "iOS Programming"
+        "Software Engineering: Synthesis and Development"
       ]
     }
   ],
